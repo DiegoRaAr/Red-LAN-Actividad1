@@ -1,0 +1,6 @@
+laboratorio.local. IN SOA dns.laboratorio.local. admin.laboratorio.local. 2026050601 7200 3600 1209600 3600
+
+@    IN NS dns.laboratorio.local.
+
+dns  IN A 172.16.3.1
+www  IN A 172.16.3.10

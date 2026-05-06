@@ -1,0 +1,15 @@
+grupo-a.local:53 {
+	file /root/db.laboratorio
+	log
+	errors
+}
+laboratorio.local:53 {
+	file /root/db.laboratorio.local
+	log
+	errors
+}
+.:53 {
+	forward . 8.8.8.8
+	log
+	errors
+}

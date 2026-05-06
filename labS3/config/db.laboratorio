@@ -1,0 +1,5 @@
+grupo-a.local. IN SOA dns.grupo-a.local. admin. 2026042201 7200 3600
+1209600 3600
+www IN A 172.16.0.11
+
+
