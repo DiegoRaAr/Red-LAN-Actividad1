@@ -2,5 +2,5 @@ laboratorio.local. IN SOA dns.laboratorio.local. admin.laboratorio.local. 202605
 
 @    IN NS dns.laboratorio.local.
 
-dns  IN A 172.16.3.1
+dns  IN A 172.16.3.5
 www  IN A 172.16.3.10
